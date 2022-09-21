@@ -8,9 +8,9 @@ Explore
 @richusir 
 richusir
 /
-RICHUSER_B1
+YS-REMO-_SIR
 Public
-forked from richusir/RICHUSER_B1
+forked from richusir/YS-REMO-_SIR
 0
 1121
 Code
@@ -21,8 +21,8 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
-@richusir
+YS-REMO-_SIR/bot.js /
+@YSREMOSIR
 richusir Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('Richuser working perfectly 💘')
+            chalk.green.bold('remoser working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'REMOSERBOT_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
