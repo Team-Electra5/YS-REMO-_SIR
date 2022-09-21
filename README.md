@@ -46,7 +46,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![REMOSER](<img src=null-20220906-WA0688.jpg>
- https://github.com/Richuser_b1 |  
+ https://github.com/YS-REMO-_SIR |  
 ----|
 [Its_me_YSREMO](https://github.com/ Team-Electra5)  |
 Base, Bug Fixes, Modules | 
